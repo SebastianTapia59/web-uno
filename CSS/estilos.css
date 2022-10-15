@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+   }
+   .Encabezado{
+       text-align: center;
+       background-color: rgb(61, 61, 236);
+       font-size: 60px;
+   }
+   #titulo{
+       color:white;
+       font-style: normal;
+       font-size: 40px;
+   }
+   #frase{
+       color: black;
+       font-family: cursive;
+       font-size: 20px;
+       
+    
+   }
+   #autor{
+       color:black;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 20px;
+   }
+   #barra{
+       background-color: rgb(255, 255, 151);
+       text-align: center;
+       list-style-type: none;
+   }
+   #barra li{
+       display: inline-flex;
+       
+       
+   }
+   #barra a{
+       text-decoration: none;
+       color: black;
+       padding: 10px;
+       width: 100px;
+   }
+   #barra li:hover{
+           background-color: rgb(164, 211, 211);
+   }
+   
+   .piedepagina{
+       background-color: black;
+       color: white;
+       text-align: center;
+       font-style: italic;
+      
+   }
+   .piedepagina p{
+       display: inline-flex; 
+   }
+   .gustos{
+       float: left;
+       width: 900px;
+       padding-top: 0px;
+       background-color: rgb(199, 189, 147);
+       border-radius: 10px;
+       text-align: center;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   #gustos img{
+       height: 150px;
+       text-align: center; 
+   }
+   #gustotitulo{
+       text-align: center;
+   }
+   #gustofavoritos{
+       text-align: center;
+   }
+   .descripcion{
+       text-align: center;
+   }
+   #seriefavorita{
+       text-align: center;
+   }
+   #actorfavorito{
+       text-align: center;
+   }
+   #videojuegofavorito{
+       text-align: center;
+   }
+   #cantantefavorito{
+       text-align: center;
+   }
+   
+   .redes{
+       float: right;
+       width: 300px;
+       padding: 70px;
+       background-color: rgb(243, 241, 212);
+       border-radius: 10px;
+       padding-top: 0;
+       text-align: center;
+   }
+   #redsocialuno{
+       text-align: center;
+       height: 120px;
+   }
+   #redsocialdos{
+       text-align: center;
+       height: 120px;
+   }
+   #redsocialtres{
+       text-align: center;
+       height: 120px;
+   }
+   #redsocialtres p{
+       font-family: fantasy;
+   }
+   #publicidaduno{
+       text-align: center;
+       height: 150px;
+       margin-left: 0px;
+   }
+   #frasepublicidad{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: 20px;
+   }
+   #frasepublicidados{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: 20px;
+   }
+   #frasepublicidadtres{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: 20px;
+   }
+   #frasepublicidadcuatro{
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: 20px;
+   }
+   #publicidadtres{
+       height: 175px;
+   }
+   .descripcion{
+       margin-left: 20px;
+   
+       }
+
+

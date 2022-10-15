@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+}
+
+#Encabezado {
+    font-size: medium;
+    text-align: center;
+    font-size: 45px;
+    background-color: rgb(16, 18, 20);
+    padding: 1%;
+    color: rgb(241, 245, 245);
+
+}
+#frase {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(16, 18, 20);
+    font-size: 20px;
+    padding: auto;
+    color: rgb(241, 245, 245);
+}
+
+#menu {
+    width: auto;
+    height: 50px;
+    background-color: rgb(130, 112, 146);
+    border-top: 1px  #456789;
+    border-bottom: 1px  #643287;
+}
+
+#menu > div{
+    width: auto;
+    margin: 0px auto;
+}
+
+#menu li{
+    display: inline-block;   
+    height: 35px;   
+    padding: 15px 10px 0px 10px;   
+    margin-right: 5px; 
+}
+
+#menu li:hover{
+    background-color: #6FACC6; 
+}
+
+#menu a{
+    font: bold 18px Arial, sans-serif;   
+    color: #333333;   
+    text-decoration: none; 
+}
+
+main{
+    width: 96%;   
+    padding: 2%;   
+    background-image: url(); 
+}
+main > div {
+    width: 960px;
+    margin: 0px auto;
+}
+#pielogo{
+    width: 96%;
+    padding: 2%;
+    background-color: #6FACC6;
+}
+#pielogo > div{
+    width: 960px;
+    margin: 0px auto;
+    background-color: #643287;
+}
+.pie{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+   
+}
+
+.seccion{
+    float: left;
+    width: 270px;
+    padding: 25px;
+}
+.seccion h1{
+    font: bold 20px Aria, sans-serif
+}
+.seccion p{
+    margin-top: 5px;
+}
+.seccion a {
+    font: bold 16px Arial, sans-serif;
+    color: #333333;
+    text-decoration: none;
+}
+#redes{
+    float: right;
+    width: 280px;
+    padding: 20px;
+    background-color: rgb(243, 241, 212);
+    border-radius: 10px;
+}
+#uno{
+    text-align: center;
+}
+#dos{
+    text-align: center;
+}
+#tres{
+    text-align: center;
+}
+#tres p{
+    font-family: fantasy;
+}
+.gustos{
+    float: left;
+    width: 900px;
+    padding-top: 0px;
+    background-color: rgb(199, 189, 147);
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#titulo{
+    text-align: center;
+}
+
+#serie{
+    text-align: center;
+}
+#actor{
+    text-align: center;
+}
+#juego{
+    text-align: center;
+}
+#cantante{
+    text-align: center;
+}
+#info{
+    float: left;
+    width: 620px;
+}
+
+
+
+
